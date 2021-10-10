@@ -15,7 +15,7 @@ Todos os direitos reservados
           </div>
           &nbsp;
           <div class="copyright text-center my-auto">
-         <span>Temos sistemas personalizados, caso precisa entre em contato conosco - visaotec.com@gmail.com</span>
+         <span>Temos sistemas personalizados. Entre em contato conosco - visaotec.com@gmail.com</span>
           </div>
         </div>
       </footer>
