@@ -1,0 +1,12 @@
+/**
+ * CSS AUTO COMPLETE
+ */
+.ui-autocomplete-loading { background: white url('../img/ajax-loader.gif') right center no-repeat; }
+.ui-autocomplete { height: auto; width:300px; overflow-y: scroll; overflow-x: hidden; background:#FFF; padding:5px; border:#CCC solid 1px;} 
+ul.ui-autocomplete {z-index: 99998;}
+.ui-helper-hidden-accessible {display: none;}
+.ui-menu .ui-menu-item a {
+    border-bottom: 1px solid #e3e6f0;
+    padding: 6px 0;
+}
+
