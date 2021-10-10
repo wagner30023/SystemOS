@@ -12,7 +12,7 @@
   ###  O visaotec_cliente.sql  está dentro da pasta SQL.
   ##
 
-![systemos](systemos.png)
+![systemos](https://github.com/visaotec/SystemOS/blob/main/systemos.PNG)
 
 #### Demostração do sistema [System OS](https://www.youtube.com/watch?v=3pjNhjjOq1g)
 #### Acesse nosso canal no [Youtube](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
