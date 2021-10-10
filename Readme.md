@@ -9,12 +9,12 @@
 * Configure os seguintes arquivos em : SystemOS\application\config\config.php
  configuere o  link de acesso tanto em localhost ou online.
  Ainda na mesma pasta config.php localiza o arquivo database.php coloque as informaçoes do seu banco de dados.
-  ###  O visaotec_cliente.sql  está dentro da pasta SQL.
+* O visaotec_cliente.sql  está dentro da pasta SQL.
   ##
 
 ![systemos](https://github.com/visaotec/SystemOS/blob/main/systemos.PNG)
 
-#### Demostração do sistema [System OS](https://www.youtube.com/watch?v=3pjNhjjOq1g)
+#### Demostração do sistema [System OS](https://youtu.be/oIEcnryowpA)
 #### Acesse nosso canal no [Youtube](https://www.youtube.com/channel/UCrQgt3TC4XIX9jxLkiENBRA)
 ##
 ### Queremos que as boas ideias se multipliquem e alcancem o maior número possível de beneficiados. Faça parte do nosso projeto!  
