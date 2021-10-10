@@ -20,4 +20,4 @@
 * Faça um fork
 * Crie o branch da sua contribuição
 * Solicite um Pull Request do seu novo branch
-* Por gentileza corrigir o texto que está no footer da imagem
+
