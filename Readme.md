@@ -1,5 +1,4 @@
-## SYSTEM OS - é um  Sistema desenvolvido com framework codeigniter na versão do PHP 7.3 para gerenciar  Ordens de serviços, Estoques, Vendas, Fornecedores e muito mais. 
-## O Sistema é distribuído de forma gratuita, sendo o seu código livre para quaisquer alterações. 
+## SYSTEM OS - é um  Sistema desenvolvido com framework codeigniter na versão do PHP 7.3 para gerenciar  Ordens de serviços, Estoques, Vendas, Fornecedores e muito mais. O Sistema é distribuído de forma gratuita, sendo o seu código livre para quaisquer alterações. 
 ## Requerimentos
 * PHP >= 7.3
 * MySQL
